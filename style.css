@@ -50,20 +50,21 @@ body{
     max-height: 100%;
 }
 .scoreContainer{
-    font-size: 50px;
+    font-size: 40px;
     text-align-last: center;
     margin-top: 20px;
+    color: #404040;
 }
 .button.play, .button.reset {
     border-style: solid;
-    border-width: 37px 0 37px 60px;
+    border-width: 27px 0 27px 50px;
 }
 .button{
     border: 0;
     background: transparent;
     box-sizing: border-box;
     width: 0;
-    height: 74px;
+    height: 50px;
     border-color: transparent;
     border-left-color: #202020;
     transition: 1000ms all ease;
